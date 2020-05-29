@@ -1,4 +1,3 @@
-.section	__TEXT,__text
 data:
 	.asciz	"Hello, World\n"
 .globl	_main
